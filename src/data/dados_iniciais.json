@@ -1,101 +1,101 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Thiago Ventura",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Venha gargalhar!!",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Saudades do Playcenter? venha matar saudades do Turbo Drop!!",
+          "url": "https://www.youtube.com/watch?v=Nr4fuJOgAm4"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Benzetacil",
+          "url": "https://www.youtube.com/watch?v=WIVVb87JPog"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Apelidos",
+          "url": "https://www.youtube.com/watch?v=0Pqq46BvDZo&pbjreload=101"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Escola Pública",
+          "url": "https://www.youtube.com/watch?v=wvzLATU8M04"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Pose de quebrada",
+          "url": "https://www.youtube.com/watch?v=KfdKBaruZXk"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "300 de esparta",
+          "url": "https://www.youtube.com/watch?v=75fK0iwhxdE"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Beach Park",
+          "url": "https://www.youtube.com/watch?v=R288k4p6ZkU&t=130s"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Duas viagens",
+          "url": "https://www.youtube.com/watch?v=RziCkpHJ8_U"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Afonso Padilha",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Tente não rir",
+        "url": "https://www.youtube.com/watch?v=go0QuPz8uEo"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Perdi a aliaça",
+          "url": "https://www.youtube.com/watch?v=eKYZcqXlcJY"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Maconha",
+          "url": "https://www.youtube.com/watch?v=go0QuPz8uEo"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Feio com dicas de beleza",
+          "url": "https://www.youtube.com/watch?v=gvRn3MGMmDw"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Mentiras",
+          "url": "https://www.youtube.com/watch?v=tBJp92dRBFo"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Jeitinho Brasileiro",
+          "url": "https://www.youtube.com/watch?v=4d6Q7xs7G18"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Diogo de Almeida",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Meu professor é comedia",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Nome exótico das crianças na chamada",
+          "url": "https://www.youtube.com/watch?v=um8VNggxifY"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "História de professor",
+          "url": "https://www.youtube.com/watch?v=cZlsPKlgpZE"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Peguei no pé de uma DIretora de Escola!",
+          "url": "https://www.youtube.com/watch?v=Sci8yod1lNs"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Piolho",
+          "url": "https://www.youtube.com/watch?v=0Dv-vsDcAG0"
         }
       ]
     },
